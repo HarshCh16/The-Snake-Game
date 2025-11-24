@@ -6,8 +6,6 @@ Eat food to grow the snake, avoid collisions, and try to beat the persistent hig
 ---
 
 ## ▶ Demo
-Add a screenshot or short GIF named screenshot.png or demo.gif to the repo root and it will show here:
-
 ![snake-demo](screenshot.png)
 
 ---
